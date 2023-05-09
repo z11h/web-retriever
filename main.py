@@ -11,7 +11,7 @@ from fastapi.openapi.utils import get_openapi
 from fastapi.responses import JSONResponse
 
 PROJECT_NAME = "web-retriever"
-ACCOUNT_NAME = "draganjovanovich"
+ACCOUNT_NAME = "z11h"
 
 # In total, the text + image links + prompts should be <= 2048
 CHAR_LIMIT = 1585
